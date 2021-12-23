@@ -23,6 +23,7 @@ import { SearchBarComponent } from './components/search-bar/search-bar.component
   imports: [
     BrowserModule,
     AppRoutingModule,
+    FormsModule,
     BrowserAnimationsModule,
     GaugeModule.forRoot(),
     MatFormFieldModule,
