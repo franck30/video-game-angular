@@ -28,6 +28,7 @@ import { HttpErrorsInterceptor } from './interceptors/http-errors.interceptor';
     BrowserModule,
     AppRoutingModule,
     FormsModule,
+    HttpClientModule,
     BrowserAnimationsModule,
     GaugeModule.forRoot(),
     MatFormFieldModule,
