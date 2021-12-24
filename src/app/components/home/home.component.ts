@@ -27,6 +27,7 @@ export class HomeComponent implements OnInit {
       }
     })
   }
+
   searchGames(sort: string, search?: string) {
     this.httpService
       .getGameList(sort, search)
