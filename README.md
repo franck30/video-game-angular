@@ -1,6 +1,9 @@
 # VideoGame
 
 <img size src="https://github.com/franck30/video-game-angular/blob/master/src/assets/images/cc1.JPG" alt="ArchiTecture logo" />
+<img size src="https://github.com/franck30/video-game-angular/blob/master/src/assets/images/ccc2.JPG" alt="ArchiTecture logo" />
+<img size src="https://github.com/franck30/video-game-angular/blob/master/src/assets/images/ccc4.JPG" alt="ArchiTecture logo" />
+<img size src="https://github.com/franck30/video-game-angular/blob/master/src/assets/images/ccc5.JPG" alt="ArchiTecture logo" />
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.1.
 
