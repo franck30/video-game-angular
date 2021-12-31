@@ -1,5 +1,7 @@
 # VideoGame
 
+the project is live and accessible through this link https://61c6870ddcb3893645c98ee9--objective-visvesvaraya-70f577.netlify.app/
+
 <img size src="https://github.com/franck30/video-game-angular/blob/master/src/assets/images/cc1.JPG" alt="ArchiTecture logo" />
 <img size src="https://github.com/franck30/video-game-angular/blob/master/src/assets/images/ccc2.JPG" alt="ArchiTecture logo" />
 <img size src="https://github.com/franck30/video-game-angular/blob/master/src/assets/images/ccc4.JPG" alt="ArchiTecture logo" />
